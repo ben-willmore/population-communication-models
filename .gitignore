@@ -1,0 +1,5 @@
+__pycache__
+results/
+collated-data-2022/
+*/__pycache__/
+*/.ipynb_checkpoints/
